@@ -7,7 +7,7 @@ function Context() {
   console.log(posts)
 
   return (
-    <div>
+    <div className='w-full flex flex-col justify-center items-center gap-y-14 mt-[150px] mb-[500px] py-8  h-screen '>
         {
             loading? <Spinner/> : (
                 posts.length===0 ? (

@@ -1,7 +1,7 @@
 .custom-loader {
     width:45px;
     height:40px;
-    --c:linear-gradient(#000000 0 0);
+    --c:linear-gradient(#0e0d7a 0 0);
     background: 
       var(--c) 0%   50%,
       var(--c) 50%  50%,
